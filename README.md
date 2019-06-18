@@ -6,4 +6,4 @@ The project demonstrates the use of Selenium which is used for automating web ap
 * The city to which they want to fly
 * The date of departure
 
-The program will automatically go to (www.cleartrip.com)[ClearTrip] and store the top three cheapest air tickets in the **price logs.txt** file.It filters the list of flights to **Non-Stop** flights (because no one likes halts) and returns the top three cheapest tickets along with the flight name, departure time and arrival time. The process is automated using the Selenium WebDriver tool. 
+The program will automatically go to [ClearTrip](www.cleartrip.com) and store the top three cheapest air tickets in the **price logs.txt** file.It filters the list of flights to **Non-Stop** flights (because no one likes halts) and returns the top three cheapest tickets along with the flight name, departure time and arrival time. The process is automated using the Selenium WebDriver tool. 
