@@ -1,0 +1,52 @@
+
+2019-06-18 13:41:21.665761 Dubai to Dublin
+************************
+Etihad Airways
+Departure Time: 09:35
+Arrival Time: 14:45
+Price: AED2,364
+-------------------------------------
+Etihad Airways
+Departure Time: 02:45
+Arrival Time: 08:05
+Price: AED2,364
+-------------------------------------
+Emirates
+Departure Time: 07:15
+Arrival Time: 12:05
+Price: AED2,700
+-------------------------------------
+2019-06-18 13:43:37.766947 Dubai to  Germany
+************************
+Etihad Airways
+Departure Time: 02:10
+Arrival Time: 06:45
+Price: AED1,784
+-------------------------------------
+Etihad Airways
+Departure Time: 09:35
+Arrival Time: 14:20
+Price: AED1,994
+-------------------------------------
+Emirates
+Departure Time: 14:40
+Arrival Time: 19:25
+Price: AED2,150
+-------------------------------------
+2019-06-18 13:45:03.143118 Germany to London
+************************
+Ryanair
+Departure Time: 18:15
+Arrival Time: 18:50
+Price: AED130
+-------------------------------------
+Ryanair
+Departure Time: 06:40
+Arrival Time: 07:15
+Price: AED174
+-------------------------------------
+Lufthansa
+Departure Time: 20:00
+Arrival Time: 20:40
+Price: AED465
+-------------------------------------
